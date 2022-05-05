@@ -1,0 +1,6 @@
+ {
+  "development": {
+    "url": "postgres://czulbaran:admin123@localhost:5432/my_store",
+    "dialect": "postgres"
+  }
+}
